@@ -1,4 +1,5 @@
 # Developing a High-throuput design for FRET
 
-##People involved
+## People involved
+
 Dylan George, Elliot Steele
