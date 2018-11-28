@@ -1,4 +1,5 @@
 # open-source-workshop
 
-TO DO lists123
-BHBHBBH
+TO DO lists
+
+camera noise
